@@ -17,12 +17,14 @@ The **LLM Chatbot** is an advanced interactive application that leverages the po
 ## 📷 Chatbot Interface
 **User Input & Customization**
 
-![1](https://github.com/user-attachments/assets/f48aff5b-9de7-4df5-9757-538f3d426553)
+![1](https://github.com/user-attachments/assets/05a96aa5-5c06-4763-a7a2-54ff18ad4128)
+
 
 **Generated Response**
 
-![2](https://github.com/user-attachments/assets/bc6fa76f-e6ec-4a32-9770-269f18f976e4)
-![3](https://github.com/user-attachments/assets/c7f0b2ad-b55f-42a3-b61a-1a75606356c4)
+![2](https://github.com/user-attachments/assets/a42a1f8b-beb3-4c61-8dba-b9d12f03409e)
+![3](https://github.com/user-attachments/assets/bb43aa1d-4317-4364-baff-c65f675ab849)
+
 
 ## 🛠 Technical Specifications
 
